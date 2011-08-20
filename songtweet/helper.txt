@@ -1,8 +1,0 @@
-<receiver android:name="songReceiver">
-			<intent-filter>
-				<action android:name="com.android.music.metachanged"></action>
-				<action android:name="com.android.music.playstatechanged"></action>
-				<action android:name="com.android.music.playbackcomplete"></action>
-				<action android:name="com.android.music.queuechanged"></action>
-			</intent-filter>
-		</receiver>
